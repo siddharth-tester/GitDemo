@@ -57,6 +57,8 @@ public class Basics {
 		
 		System.out.println("=================================================================");
 		System.out.println("=======GET CALL===============");
+		System.out.println("postJira");
+		System.out.println("postJira1");
 
 		// To GET place
 
