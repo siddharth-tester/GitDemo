@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-24T12:46:52 CDT" name="Default suite" finished-at="2023-05-24T12:46:56 CDT" duration-ms="3656">
+    <groups>
+    </groups>
+    <test started-at="2023-05-24T12:46:52 CDT" name="Default test" finished-at="2023-05-24T12:46:56 CDT" duration-ms="3656">
+      <class name="files.DynamicJSON">
+        <test-method signature="AddBook(java.lang.String,java.lang.String)[pri:0, instance:files.DynamicJSON@149e0f5d]" started-at="2023-05-24T12:46:52 CDT" name="AddBook" data-provider="BooksData" finished-at="2023-05-24T12:46:55 CDT" duration-ms="2584" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qwerty]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1212]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddBook -->
+        <test-method signature="AddBook(java.lang.String,java.lang.String)[pri:0, instance:files.DynamicJSON@149e0f5d]" started-at="2023-05-24T12:46:55 CDT" name="AddBook" data-provider="BooksData" finished-at="2023-05-24T12:46:55 CDT" duration-ms="514" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uiopo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3434]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddBook -->
+        <test-method signature="AddBook(java.lang.String,java.lang.String)[pri:0, instance:files.DynamicJSON@149e0f5d]" started-at="2023-05-24T12:46:55 CDT" name="AddBook" data-provider="BooksData" finished-at="2023-05-24T12:46:56 CDT" duration-ms="503" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bnmnm]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2321]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddBook -->
+      </class> <!-- files.DynamicJSON -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
